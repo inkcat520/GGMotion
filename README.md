@@ -1,6 +1,6 @@
 # GGMotion
 
-Official implementation of our paper:  
+Code for our paper:  
 **GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction**  
 Shuaijin Wan, Huaijiang Sun
 
