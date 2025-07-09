@@ -1,0 +1,124 @@
+>>> eval Epoch: 1 Lr: 0.0003000 Pri_loss: 0.0579831, Aux_loss: 0.0479307 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 14.453  | 32.894  | 67.632  | 38.326  |
+avg                | 14.453  | 32.894  | 67.632  | 38.326  |
+>>> eval Epoch: 2 Lr: 0.0003000 Pri_loss: 0.0363500, Aux_loss: 0.0326388 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 13.558  | 30.318  | 62.357  | 35.411  |
+avg                | 13.558  | 30.318  | 62.357  | 35.411  |
+>>> eval Epoch: 3 Lr: 0.0003000 Pri_loss: 0.0341673, Aux_loss: 0.0309157 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 12.968  | 28.876  | 58.263  | 33.369  |
+avg                | 12.968  | 28.876  | 58.263  | 33.369  |
+>>> eval Epoch: 4 Lr: 0.0003000 Pri_loss: 0.0327561, Aux_loss: 0.0298298 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 12.673  | 28.474  | 57.958  | 33.035  |
+avg                | 12.673  | 28.474  | 57.958  | 33.035  |
+>>> eval Epoch: 5 Lr: 0.0002640 Pri_loss: 0.0318062, Aux_loss: 0.0290715 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 12.423  | 27.710  | 56.748  | 32.294  |
+avg                | 12.423  | 27.710  | 56.748  | 32.294  |
+>>> eval Epoch: 6 Lr: 0.0002640 Pri_loss: 0.0308329, Aux_loss: 0.0283286 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 12.442  | 27.346  | 54.982  | 31.590  |
+avg                | 12.442  | 27.346  | 54.982  | 31.590  |
+>>> eval Epoch: 7 Lr: 0.0002323 Pri_loss: 0.0301687, Aux_loss: 0.0278324 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 12.297  | 27.149  | 54.511  | 31.319  |
+avg                | 12.297  | 27.149  | 54.511  | 31.319  |
+>>> eval Epoch: 8 Lr: 0.0002323 Pri_loss: 0.0294344, Aux_loss: 0.0273172 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 12.237  | 26.943  | 54.431  | 31.203  |
+avg                | 12.237  | 26.943  | 54.431  | 31.203  |
+>>> eval Epoch: 9 Lr: 0.0002323 Pri_loss: 0.0289540, Aux_loss: 0.0269482 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 12.139  | 26.871  | 54.781  | 31.264  |
+avg                | 12.139  | 26.871  | 54.781  | 31.264  |
+>>> eval Epoch: 10 Lr: 0.0002044 Pri_loss: 0.0284551, Aux_loss: 0.0265990 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.944  | 26.662  | 54.792  | 31.133  |
+avg                | 11.944  | 26.662  | 54.792  | 31.133  |
+>>> eval Epoch: 11 Lr: 0.0002044 Pri_loss: 0.0279648, Aux_loss: 0.0262570 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.945  | 26.257  | 53.808  | 30.670  |
+avg                | 11.945  | 26.257  | 53.808  | 30.670  |
+>>> eval Epoch: 12 Lr: 0.0001799 Pri_loss: 0.0274740, Aux_loss: 0.0259069 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.942  | 26.628  | 54.515  | 31.028  |
+avg                | 11.942  | 26.628  | 54.515  | 31.028  |
+>>> eval Epoch: 13 Lr: 0.0001799 Pri_loss: 0.0270457, Aux_loss: 0.0256071 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.866  | 26.474  | 54.789  | 31.043  |
+avg                | 11.866  | 26.474  | 54.789  | 31.043  |
+>>> eval Epoch: 14 Lr: 0.0001799 Pri_loss: 0.0266947, Aux_loss: 0.0253486 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.983  | 26.632  | 54.706  | 31.107  |
+avg                | 11.983  | 26.632  | 54.706  | 31.107  |
+>>> eval Epoch: 15 Lr: 0.0001583 Pri_loss: 0.0264458, Aux_loss: 0.0251772 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.938  | 26.632  | 55.049  | 31.206  |
+avg                | 11.938  | 26.632  | 55.049  | 31.206  |
+>>> eval Epoch: 16 Lr: 0.0001583 Pri_loss: 0.0260416, Aux_loss: 0.0249002 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.953  | 26.628  | 54.816  | 31.133  |
+avg                | 11.953  | 26.628  | 54.816  | 31.133  |
+>>> eval Epoch: 17 Lr: 0.0001393 Pri_loss: 0.0257222, Aux_loss: 0.0246910 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.815  | 26.357  | 54.329  | 30.834  |
+avg                | 11.815  | 26.357  | 54.329  | 30.834  |
+>>> eval Epoch: 18 Lr: 0.0001393 Pri_loss: 0.0253126, Aux_loss: 0.0243913 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.993  | 26.652  | 55.146  | 31.264  |
+avg                | 11.993  | 26.652  | 55.146  | 31.264  |
+>>> eval Epoch: 19 Lr: 0.0001393 Pri_loss: 0.0251438, Aux_loss: 0.0242919 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.955  | 26.462  | 54.732  | 31.050  |
+avg                | 11.955  | 26.462  | 54.732  | 31.050  |
+>>> eval Epoch: 20 Lr: 0.0001226 Pri_loss: 0.0249043, Aux_loss: 0.0241131 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.943  | 26.951  | 55.906  | 31.600  |
+avg                | 11.943  | 26.951  | 55.906  | 31.600  |
+>>> eval Epoch: 21 Lr: 0.0001226 Pri_loss: 0.0247357, Aux_loss: 0.0239933 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.916  | 26.876  | 55.467  | 31.420  |
+avg                | 11.916  | 26.876  | 55.467  | 31.420  |
+>>> eval Epoch: 22 Lr: 0.0001079 Pri_loss: 0.0244527, Aux_loss: 0.0237883 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.885  | 26.647  | 55.800  | 31.444  |
+avg                | 11.885  | 26.647  | 55.800  | 31.444  |
+>>> eval Epoch: 23 Lr: 0.0001079 Pri_loss: 0.0241555, Aux_loss: 0.0235975 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.911  | 26.776  | 55.424  | 31.370  |
+avg                | 11.911  | 26.776  | 55.424  | 31.370  |
+>>> eval Epoch: 24 Lr: 0.0001079 Pri_loss: 0.0239913, Aux_loss: 0.0234870 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.890  | 26.905  | 56.068  | 31.621  |
+avg                | 11.890  | 26.905  | 56.068  | 31.621  |
+>>> eval Epoch: 25 Lr: 0.0000949 Pri_loss: 0.0238235, Aux_loss: 0.0233637 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.913  | 26.816  | 55.802  | 31.510  |
+avg                | 11.913  | 26.816  | 55.802  | 31.510  |
+>>> eval Epoch: 26 Lr: 0.0000949 Pri_loss: 0.0236082, Aux_loss: 0.0232078 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.904  | 26.747  | 55.856  | 31.502  |
+avg                | 11.904  | 26.747  | 55.856  | 31.502  |
+>>> eval Epoch: 27 Lr: 0.0000836 Pri_loss: 0.0234326, Aux_loss: 0.0230974 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.914  | 26.770  | 55.990  | 31.558  |
+avg                | 11.914  | 26.770  | 55.990  | 31.558  |
+>>> eval Epoch: 28 Lr: 0.0000836 Pri_loss: 0.0232879, Aux_loss: 0.0229845 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.930  | 27.016  | 56.054  | 31.667  |
+avg                | 11.930  | 27.016  | 56.054  | 31.667  |
+>>> eval Epoch: 29 Lr: 0.0000836 Pri_loss: 0.0231767, Aux_loss: 0.0229098 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.874  | 26.825  | 56.272  | 31.657  |
+avg                | 11.874  | 26.825  | 56.272  | 31.657  |
+>>> eval Epoch: 30 Lr: 0.0000735 Pri_loss: 0.0230174, Aux_loss: 0.0228105 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.883  | 26.983  | 56.316  | 31.728  |
+avg                | 11.883  | 26.983  | 56.316  | 31.728  |
+>>> eval Epoch: 31 Lr: 0.0000735 Pri_loss: 0.0228762, Aux_loss: 0.0227024 Manner: all
+milliseconds       |   100   |   200   |   400   |   avg   |
+all                | 11.925  | 26.998  | 56.557  | 31.827  |
+avg                | 11.925  | 26.998  | 56.557  | 31.827  |

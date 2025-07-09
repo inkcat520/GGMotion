@@ -1,0 +1,21 @@
+batch_size: 64
+epochs: 50
+past_length: 10
+future_length: 10
+eval_interval: 1
+lr: 3.e-4
+weight_decay: 1.e-5
+scale: 1000
+milestone: [5, 7, 10, 12, 15, 17, 20, 22, 25, 27, 30, 32, 35, 37, 40, 42, 45, 47, 50]
+gamma: 0.88
+key_point: 25 # 22 25 23
+n_layer: 4
+e_dim: 84 # eq dim
+h_dim: 72 # hidden dim
+aug: false # data augment
+n_hop: -1 # < 1 == all
+norm: true
+aux_loss: true
+loss_type: [L2, L1] # L1 L2
+fk: 1 # 0 no fk 1 mlp 2 manual
+keep: 5 # ckpt num
