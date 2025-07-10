@@ -9,7 +9,7 @@ Shuaijin Wan, Huaijiang Sun
 </div>
 
 <div align="center">
-<table style="border-collapse: collapse; font-size:10px;">
+<table style="border-collapse: collapse; font-size:5px;">
   <tr>
     <td align="center"><b>短期预测</b></td>
     <td><img src="img/h36m_walkingtogether_short.gif" alt="fig1" width="150"></td>
