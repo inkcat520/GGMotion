@@ -11,16 +11,16 @@ Shuaijin Wan, Huaijiang Sun
 <div align="center">
   <table style="border-collapse: collapse;">
   <tr>
-    <td align="center"><b>短期预测</b></td>
-    <td><img src="img/h36m_walkingtogether_short.gif" alt="fig1" width="150"></td>
-    <td><img src="img/h36m_eating_short.gif" alt="fig2" width="150"></td>
-    <td><img src="img/h36m_sitting_short.gif" alt="fig3" width="150"></td>
+     <td><img src="img/walking.gif" alt="fig1" width="150"></td>
+    <td><img src="img/walkingtogether.gif" alt="fig1" width="150"></td>
+    <td><img src="img/directions.gif" alt="fig2" width="150"></td>
+    <td><img src="img/takingphoto.gif" alt="fig3" width="150"></td>
   </tr>
   <tr>
-    <td align="center"><b>长期预测</b></td>
-    <td><img src="img/h36m_walkingtogether_long.gif" alt="fig4" width="150"></td>
-    <td><img src="img/h36m_eating_long.gif" alt="fig5" width="150"></td>
-    <td><img src="img/h36m_sitting_long.gif" alt="fig6" width="150"></td>
+     <td><img src="img/phoning.gif" alt="fig1" width="150"></td>
+    <td><img src="img/sitting.gif" alt="fig4" width="150"></td>
+    <td><img src="img/smoking.gif" alt="fig5" width="150"></td>
+    <td><img src="img/eating.gif" alt="fig6" width="150"></td>
   </tr>
   </table>
 </div>
