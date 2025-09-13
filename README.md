@@ -2,7 +2,6 @@
 
 Code for our paper:  
 **GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction**  
-Shuaijin Wan, Huaijiang Sun
 
 <div align="center">
   <img src="img/constrast.jpg" style="width:40%;" alt="对比图">
